@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp14
 {
-    //коммент
+    //коммент+2 
     class Program
     {
         static void Main(string[] args)
